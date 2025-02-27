@@ -1,0 +1,34 @@
+
+.search-button {
+    text-align: center;
+    border: 2px solid #50b5b6;
+    background-color: transparent;
+    color: #50b5b6;
+    padding: 5px 15px;
+    border-radius: 50px;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    
+}
+
+
+.circle-button {
+    background-color: #50b5b6;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.create-account {
+    background-color: #2b78e4;
+    color: white;
+   outline-color: black;
+    width: 200px;
+    height: 40px;
+}
