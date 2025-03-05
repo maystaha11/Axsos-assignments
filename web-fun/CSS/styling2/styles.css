@@ -1,0 +1,50 @@
+body {
+    font-family: cursive;
+ 
+}
+
+.header {
+    background-color: black;
+  height: 80px;
+  
+  
+}
+
+.header h1 {
+    color: white;
+    font-size: 36px;
+    
+}
+
+.cloud {
+    color: cyan;
+}
+
+.projects {
+    background-color: #663399;
+   height: 50px;
+    text-align: left;
+   
+}
+
+.projects h2 {
+    color: white;
+    font-style: italic;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.contact {
+    background-color: lightblue;
+    text-align: right;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.contact a {
+    color: navy;
+    font-size: 21px;
+    text-decoration: underline;
+    font-weight: bold;
+}
