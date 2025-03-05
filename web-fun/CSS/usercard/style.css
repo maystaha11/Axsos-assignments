@@ -1,0 +1,79 @@
+
+        body {
+            font-family: cursive;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f0f0f0;
+        }
+        .profile-card {
+            width: 600px;
+            background: white;
+            height: 300px;
+           border: 4px solid gainsboro;
+            overflow:visible;
+            text-align: left;
+            margin-top: 30px;
+        
+        }
+        .header {
+            background: rgb(23 162 184);
+            height: 90px;
+        }
+        .profile-content {
+            padding: 20px;
+            position: relative;
+            text-align: left;
+        }
+        .avatar {
+            width: 70px;
+            height: 70px;
+            border-radius: 70%;
+            background: white;
+            
+            position: absolute;
+            top: -30px;
+            left: 15px;
+            border: 3px solid rgb(220, 219, 219);
+        }
+        .avatar img {
+            width: 100%;
+            height: 100%;
+            border-radius: 70%;
+        }
+        .name {
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 20px;
+            text-align: left;
+        }
+        .location {
+            color: #555;
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+        }
+        .location img {
+            width: 10px;
+            height: 15px;
+            margin-right: 5px;
+        }
+        .bio {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #333;
+        }
+        .edit-profile {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #007bff;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+        }
+        .edit-profile img {
+            width: 16px;
+            height: 16px;
+            margin-right: 5px;
+        }
+  
